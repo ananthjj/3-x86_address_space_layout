@@ -58,13 +58,4 @@ void free_pointers()
   free(heap_ptr_2);
   heap_ptr_1 = NULL;
   heap_ptr_2 = NULL;
-
-  /* char* tp1;
-  char* tp2;
-  tp1 = 
-  tp2 = 
-  free(*text_ptr_1);
-  free(*text_ptr_2);
-  text_ptr_1 = NULL;
-  text_ptr_2 = NULL;*/
 }
