@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ananth/Desktop/CS 3281f22/assignment-3-ananthjj/segments.c
+segments.h
+/home/ananth/Desktop/CS 3281f22/assignment-3-ananthjj/segments.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/ananth/Desktop/CS 3281f22/assignment-3-ananthjj/segments.h
+
